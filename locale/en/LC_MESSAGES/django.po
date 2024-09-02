@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-02 03:03-0700\n"
-"PO-Revision-Date: 2024-09-02 10:06+0000\n"
+"POT-Creation-Date: 2024-09-02 03:39-0700\n"
+"PO-Revision-Date: 2024-09-02 10:39+0000\n"
 "Last-Translator:   <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -46,6 +46,30 @@ msgstr "Post"
 #: core/models.py:28
 msgid "Посты"
 msgstr "Posts"
+
+#: core/templates/base.html:3
+msgid "dir"
+msgstr ""
+
+#: core/templates/index.html:9
+msgid "heretitle"
+msgstr "Hello its our sites "
+
+#: core/templates/index.html:16
+msgid "ago"
+msgstr "ago"
+
+#: core/templates/navbar.html:6
+msgid "navbar"
+msgstr "Nav Bar"
+
+#: core/templates/navbar.html:14
+msgid "home name"
+msgstr "Home"
+
+#: core/templates/navbar.html:17
+msgid "about"
+msgstr "About Us"
 
 #: translate2/settings.py:117
 msgid "Russian"

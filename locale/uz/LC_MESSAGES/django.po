@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-02 03:03-0700\n"
-"PO-Revision-Date: 2024-09-02 10:08+0000\n"
+"POT-Creation-Date: 2024-09-02 03:39-0700\n"
+"PO-Revision-Date: 2024-09-02 10:40+0000\n"
 "Last-Translator:   <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -47,6 +47,30 @@ msgstr "Post"
 msgid "Посты"
 msgstr "Postlar"
 
+#: core/templates/base.html:3
+msgid "dir"
+msgstr ""
+
+#: core/templates/index.html:9
+msgid "heretitle"
+msgstr "Salom bu bizani sait"
+
+#: core/templates/index.html:16
+msgid "ago"
+msgstr "oldin"
+
+#: core/templates/navbar.html:6
+msgid "navbar"
+msgstr "Nav Bar"
+
+#: core/templates/navbar.html:14
+msgid "home name"
+msgstr "Uy"
+
+#: core/templates/navbar.html:17
+msgid "about"
+msgstr "Biza haqimizda "
+
 #: translate2/settings.py:117
 msgid "Russian"
 msgstr "Ruscha"
@@ -57,4 +81,4 @@ msgstr "Anglischa"
 
 #: translate2/settings.py:119
 msgid "Uzbek"
-msgstr "O'zbekcha"
+msgstr "Ozbekcha"
