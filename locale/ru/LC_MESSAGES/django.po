@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-02 00:43-0700\n"
-"PO-Revision-Date: 2024-09-02 07:45+0000\n"
+"POT-Creation-Date: 2024-09-02 03:03-0700\n"
+"PO-Revision-Date: 2024-09-02 10:05+0000\n"
 "Last-Translator:   <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -19,22 +19,42 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 "X-Translated-Using: django-rosetta 0.10.0\n"
 
-#: core/models.py:5
+#: core/models.py:11
+msgid "Котегория"
+msgstr "Котегория"
+
+#: core/models.py:12
+msgid "Котегории"
+msgstr "Котегории"
+
+#: core/models.py:18
+msgid "category"
+msgstr "CCategory"
+
+#: core/models.py:20
 msgid "title"
 msgstr "Заголовок "
 
-#: core/models.py:6
+#: core/models.py:21
 msgid "content"
 msgstr "Контент "
 
-#: translate2/settings.py:116
+#: core/models.py:27
+msgid "Пост"
+msgstr "Пост"
+
+#: core/models.py:28
+msgid "Посты"
+msgstr "Посты"
+
+#: translate2/settings.py:117
 msgid "Russian"
 msgstr "русский"
 
-#: translate2/settings.py:117
+#: translate2/settings.py:118
 msgid "English"
 msgstr "английский"
 
-#: translate2/settings.py:118
+#: translate2/settings.py:119
 msgid "Uzbek"
 msgstr "узбекский"

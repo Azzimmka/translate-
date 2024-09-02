@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-02 00:43-0700\n"
-"PO-Revision-Date: 2024-09-02 07:46+0000\n"
+"POT-Creation-Date: 2024-09-02 03:03-0700\n"
+"PO-Revision-Date: 2024-09-02 10:08+0000\n"
 "Last-Translator:   <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
@@ -19,22 +19,42 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Translated-Using: django-rosetta 0.10.0\n"
 
-#: core/models.py:5
+#: core/models.py:11
+msgid "Котегория"
+msgstr "Turkum"
+
+#: core/models.py:12
+msgid "Котегории"
+msgstr "Turkumlar"
+
+#: core/models.py:18
+msgid "category"
+msgstr "turkum"
+
+#: core/models.py:20
 msgid "title"
 msgstr "Sarlavha"
 
-#: core/models.py:6
+#: core/models.py:21
 msgid "content"
 msgstr "Mazmuni"
 
-#: translate2/settings.py:116
+#: core/models.py:27
+msgid "Пост"
+msgstr "Post"
+
+#: core/models.py:28
+msgid "Посты"
+msgstr "Postlar"
+
+#: translate2/settings.py:117
 msgid "Russian"
 msgstr "Ruscha"
 
-#: translate2/settings.py:117
+#: translate2/settings.py:118
 msgid "English"
 msgstr "Anglischa"
 
-#: translate2/settings.py:118
+#: translate2/settings.py:119
 msgid "Uzbek"
 msgstr "O'zbekcha"
