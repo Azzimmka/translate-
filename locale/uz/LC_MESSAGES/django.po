@@ -8,23 +8,33 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-02 00:22-0700\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2024-09-02 00:43-0700\n"
+"PO-Revision-Date: 2024-09-02 07:46+0000\n"
+"Last-Translator:   <>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-#: translate2/settings.py:111
+"X-Translated-Using: django-rosetta 0.10.0\n"
+
+#: core/models.py:5
+msgid "title"
+msgstr "Sarlavha"
+
+#: core/models.py:6
+msgid "content"
+msgstr "Mazmuni"
+
+#: translate2/settings.py:116
 msgid "Russian"
 msgstr "Ruscha"
 
-#: translate2/settings.py:112
+#: translate2/settings.py:117
 msgid "English"
 msgstr "Anglischa"
 
-#: translate2/settings.py:113
+#: translate2/settings.py:118
 msgid "Uzbek"
 msgstr "O'zbekcha"

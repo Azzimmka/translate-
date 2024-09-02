@@ -1,9 +1,9 @@
 from django.db import models
-
+from django.utils.translation import gettext_lazy as _
 
 class Post(models.Model):
-    title=models.CharField(max_length=50)
-    content=models.TextField()
+    title=models.CharField(_('title'), max_length=50)
+    content = models.TextField(_('content'), default="No content")
     created = models.DateTimeField(auto_now_add=True)
 
     class Meta:
